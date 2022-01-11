@@ -1,0 +1,7 @@
+-- Case Study: Identify Stakeholders --
+
+• Customer
+• Sponsors
+• System addiminstrator
+• Project manager
+• Developer
